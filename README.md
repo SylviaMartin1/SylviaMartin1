@@ -13,12 +13,14 @@ Welcome to my GitHub profile! I'm a dedicated and motivated Software Systems Dev
 
 
 ## ⭐ Notable Projects 
-### Beauty Salon Website
+### Beauty Product Store Website
 - **Description:** Developed a visually appealing, interactive website that allows users to create accounts, log in, learn about the salon, and enables super users to alter the website’s content.  
-- **Technologies Used:** HTML, CSS, Semantic UI, JavaScript, Node.js, Express, Glitch.  
-  <!-- - **Link:** [Visit the Website](https://theblissfulbeautyofficialwebsite.glitch.me/) <br> -->
+- **Technologies Used:** HTML, CSS, Semantic UI, JavaScript, Node.js, Express, Glitch.
+- <!-- - **Link:** [Website I was inspired by](https://topic-08-labsm.glitch.me/about) <br> -->
+  <!-- - **Link:** [Visit the Website](https://theblissfulbeautyofficialwebsite.glitch.me/) -->
+  
 
-### Interactive Beauty Salon Website (Wix)
+### Beauty Salon Website (Wix)
 - **Description:** Created a fully interactive and accessible website using Wix, allowing users to explore various services, browse packages, book appointments, and interact through a forum. Involved market research, wireframing, and user persona development.  
 - **Technologies Used:** Wix.  
  <!-- **Link:** [Visit the Wix Site](https://20102981.wixsite.com/blissfulbeauty-1) <br> -->
