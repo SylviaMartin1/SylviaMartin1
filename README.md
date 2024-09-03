@@ -28,18 +28,11 @@ Welcome to my GitHub profile! I'm a dedicated and motivated Software Systems Dev
 - **Technologies Used:** Figma.  
  - **Link:** [PromotionalFlyerRepo](https://github.com/SylviaMartin1/RepoForPromotionalFlyer/blob/main/PromotionalFlyer.jpg) <br><br>
   
-
-## 🌐 Languages
-- English (Fluent)
-- French (Advanced) <br><br>
-
-
-## 🎨Hobbies & Interests
-
-## 📈 Current Learning Goals
-## ⚡Fun Fact
-## 📩 Contact Details
-## 🚀 Closing Call to Action
+## 🚀 Let's Connect!
+I'd love to connect with fellow students, developers, and anyone interested in tech! You can find me on:
+- **Email**: [sylviamartin2003@gmail.com](mailto:sylviamartin2003@gmail.com)
+- **GitHub**: [SylviaMartin1](https://github.com/SylviaMartin1)
+- **LinkedIn**: [Sylvia Martin](https://www.linkedin.com/in/sylvia-martin/)
 
 
 
