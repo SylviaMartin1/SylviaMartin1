@@ -16,17 +16,17 @@ Welcome to my GitHub profile! I'm a dedicated and motivated Software Systems Dev
 ### Beauty Salon Website
 - **Description:** Developed a visually appealing, interactive website that allows users to create accounts, log in, learn about the salon, and enables super users to alter the website’s content.  
 - **Technologies Used:** HTML, CSS, Semantic UI, JavaScript, Node.js, Express, Glitch.  
-- **Link:** [Visit the Website](https://blissfulbeautyofficialwebsite.glitch.me/) <br>
+  <!-- - **Link:** [Visit the Website](https://blissfulbeautyofficialwebsite.glitch.me/) <br> -->
 
 ### Interactive Beauty Salon Website (Wix)
 - **Description:** Created a fully interactive and accessible website using Wix, allowing users to explore various services, browse packages, book appointments, and interact through a forum. Involved market research, wireframing, and user persona development.  
 - **Technologies Used:** Wix.  
-- **Link:** [Visit the Wix Site](https://20102981.wixsite.com/blissfulbeauty-1) <br>
+ <!-- **Link:** [Visit the Wix Site](https://20102981.wixsite.com/blissfulbeauty-1) <br> -->
 
 ### Flyer for Fictional Enterprise
 - **Description:** Designed a promotional flyer for a fictional enterprise, showcasing the brand and its offerings. Conducted research to understand the target audience and created visually appealing graphics using Figma.  
 - **Technologies Used:** Figma.  
- - **Link:** [PromotionalFlyerRepo](https://github.com/SylviaMartin1/RepoForPromotionalFlyer/blob/main/PromotionalFlyer.jpg) <br><br>
+  <!--  **Link:** [PromotionalFlyerRepo](https://github.com/SylviaMartin1/RepoForPromotionalFlyer/blob/main/PromotionalFlyer.jpg) <br><br> -->
   
 ## 🚀 Let's Connect!
 I'd love to connect with fellow students, developers, and anyone interested in tech! You can find me on:
