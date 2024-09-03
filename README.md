@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a dedicated and motivated Software Systems Dev
 ### Flyer for Fictional Enterprise
 - **Description:** Designed a promotional flyer for a fictional enterprise, showcasing the brand and its offerings. Conducted research to understand the target audience and created visually appealing graphics using Figma.  
 - **Technologies Used:** Figma.  
- - **Link:** [View the Flyer]([PromotionalFlyerRepo](https://github.com/SylviaMartin1/PromotionalFlyerRepo) <br><br>
+ - **Link:** [View the Flyer]([PromotionalFlyerRepo](https://github.com/SylviaMartin1/PromotionalFlyerRepo/blob/main/PromotionalFlyer) <br><br>
   
 
 ## 🌐 Languages
