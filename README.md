@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a dedicated and motivated Software Systems Dev
 ## 🛠️ Skills
 - **Programming Languages**:  HTML, CSS, JavaScript, jQuery, SQL, Java, Kotlin
 - **Frameworks/Libraries**:  Node.js, Express, Handlebars, Semantic UI, Jetpack Compose.
-- **Tools/Technologies**: Git, AWS, Cisco Packet Tracer, Wix, Figma, Visual Paradigm, SAP.
+- **Tools/Technologies**: Git, AWS, Cisco Packet Tracer, Wix, Figma, Visual Paradigm, SAP, Craft CMS, WordPress, Elementor, Cognito Forms.
 - **Operating Systems**: Linux, Windows, Android, Mac OS, iOS
-- **Understood Technical Concepts**:  object-oriented programming, algorithms and data structures, responsive design principles, agile methodologies, Slack, knowledge of computer hardware, computer software, computer networks and computer security.
+- **Understood Technical Concepts**:  object-oriented programming, algorithms and data structures, responsive design principles, agile methodologies, website analysis, online form development, Slack, knowledge of computer hardware, computer software, computer networks and computer security.
 - **Analytical Abilities**:  HTML, CSS, JavaScript, jQuery, SQL, Java, Kotlin
 - **Soft Skills**:  HTML, CSS, JavaScript, jQuery, SQL, Java, Kotlin <br><br>
 
