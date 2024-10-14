@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a dedicated and motivated Software Systems Dev
   
 ## 🚀 Let's Connect!
 I'd love to connect with fellow students, developers, and anyone interested in tech! You can find me on:
-- **Email**: [sylviamartin2003@gmail.com](mailto:sylviamartin2003@gmail.com)
 - **GitHub**: [SylviaMartin1](https://github.com/SylviaMartin1)
+- **Email**: [sylviamartin2003@gmail.com](mailto:sylviamartin2003@gmail.com)
 - **LinkedIn**: [Sylvia Martin](https://www.linkedin.com/in/sylvia-martin/)
 
 
